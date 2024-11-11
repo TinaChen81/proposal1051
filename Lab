@@ -1,0 +1,45 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Discord Economy Channel 
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+I want to make a discord bot for an economy channel where users in the server get to compete for the highest number of coins and buy stuff with the currency they earn.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+I’m planning to program it on python and export it on Discord. My discord bot in economy channel will be able to keep track of a leaderboard of the users that have earned the highest number of coins by playing games in the economy channel. I also want to add a shop where users can purchase items like a role or an item that sits in their inventory and they can resell to earn back a portion of the item cost. Some games I have in mind include RPS, dicing, heads or tails, and roulette. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Programming Bot for Discord using Python
+Econ channel
+Leaderboard tracker 
+Currency and shop
+At least two games 
+
+
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+I think I can get the bot, leaderboard, and some games added before the final deadline 
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I think I could do more research about the leaderboard, games and exporting Python code to Discord could help things run more smoothly.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to learn how to import the code on discord. I think discord.py will help me with creating a bot for discord and I don’t think I will make it too complicated. Bot commands are also something I need to figure out for the final project to turn out well. Without bot commands, this project would just be a discord econ channel that isn’t functional. I will also have to learn how to add a leaderboard, and games for the economy channel to make my project complete. 
